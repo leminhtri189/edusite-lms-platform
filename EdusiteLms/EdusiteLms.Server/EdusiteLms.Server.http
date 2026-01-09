@@ -1,0 +1,6 @@
+@EdusiteLms.Server_HostAddress = http://localhost:5096
+
+GET {{EdusiteLms.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

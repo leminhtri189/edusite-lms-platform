@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="edusitelms.client/edusitelms.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="EdusiteLms.Server/EdusiteLms.Server.csproj" />
+</Solution>
